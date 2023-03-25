@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+unipo.org	TRUE	/	FALSE	1999999999	asp_transient_id	1341e77eb2066d500646292e7ff2c937
+

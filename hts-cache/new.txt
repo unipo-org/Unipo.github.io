@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+05:55:01	49/49	---M-Z	200	added ('OK')	text/plain	etag:%22b057927d65c6d71:0%22	https://unipo.org/robots.txt		(from )
+05:55:04	136315/136315	---MCZ	200	added ('OK')	text/html	date:Sat,%2025%20Mar%202023%2022:55:01%20GMT	https://unipo.org/science-2022/	C:/Users/asus/Desktop/Unipo.org/unipo.org/science-2022/index.html	(from )
